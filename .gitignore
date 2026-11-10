@@ -1,0 +1,12 @@
+# .NET build outputs
+bin/
+obj/
+
+# Node dependencies and build output
+node_modules/
+dist/
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store

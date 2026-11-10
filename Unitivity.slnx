@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Unitivity.Api/Unitivity.Api.csproj" />
+    <Project Path="src/Unitivity.Domain/Unitivity.Domain.csproj" />
+    <Project Path="src/Unitivity.Infrastructure/Unitivity.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Unitivity.Api.Tests/Unitivity.Api.Tests.csproj" />
+    <Project Path="tests/Unitivity.Domain.Tests/Unitivity.Domain.Tests.csproj" />
+  </Folder>
+</Solution>
