@@ -1,2 +1,2 @@
 # Unitivity2
-The second ambitious iteration of Unitivity. Build entirely by hand. 
+The second ambitious iteration of Unitivity. Built entirely by hand. 
